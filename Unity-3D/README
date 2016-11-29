@@ -1,1 +1,26 @@
 README.
+
+Unity 3D学习路线
+=======
+
+
+内存优化，unity如何释放资源，drawcall,场景加载，手写插件
+内存加密，代码安全
+完整对象池，AI决策
+四元数，欧拉角
+设计模式
+unity热更新
+
+
+ngui，ugui ,    itween   ,   playmaker
+脚本：协程coroutines，destroy,destroyimmediatly
+2D ： altas图集，图片格式与压缩
+敏捷开发
+
+
+c#：值类型，引用类型，反射机制
+面向对象：继承，封装，多态，聚合，组合，关联，引用
+代码风格：重构，编程习惯
+设计模式：六大原则，单例，观察者，状态机
+项目管理：git，svn，bitbucket
+网络通信：socket，rpc原理
